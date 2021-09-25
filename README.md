@@ -26,5 +26,5 @@ HOMEPAGE
 ![image](https://user-images.githubusercontent.com/62386208/134526917-1143a25b-c791-4320-95ba-b56324544d9d.png)
 
 
-2ND TABLE CUSTOMERS INFO
+2ND TABLE CUSTOMERS ORDER INFO
 ![image](https://user-images.githubusercontent.com/62386208/134527009-5419ddf4-be30-4814-adea-f82aed41eb00.png)
